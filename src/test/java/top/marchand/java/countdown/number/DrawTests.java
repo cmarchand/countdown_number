@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-public class DrawTest {
+public class DrawTests {
 
   @Test
   @DisplayName("Builder.build should returns a Draw")
